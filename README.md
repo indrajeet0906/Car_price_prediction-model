@@ -1,6 +1,4 @@
-# Car Price Predictor
 
-Project link: https://car-price-price.herokuapp.com
 
 
 <img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
